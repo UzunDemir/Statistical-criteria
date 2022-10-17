@@ -1,0 +1,2 @@
+# Statistical-criteria
+Статистические критерии
